@@ -1,1 +1,1 @@
-new scripting
+shell 2.0
