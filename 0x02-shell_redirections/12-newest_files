@@ -1,2 +1,2 @@
 #!/bin/bash
-sort . -type f | head -10
+ls -t pwd
